@@ -1,0 +1,13 @@
+{
+  "name": "pick",
+  "version": "0.1.0",
+  "repository": "git://github.com/ianstormtaylor/pick.git",
+  "description": "Pick keys from an object, returning a clone.",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
